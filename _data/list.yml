@@ -1,0 +1,7 @@
+- pokemon: poke
+  nature: nature
+  ability: ability (HA)
+  egg_moves: one, two, three, four
+  ball: poke ball
+  on_hand: yes
+  can_breed: yes
