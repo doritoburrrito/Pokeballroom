@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #303030;
+  color: #DDD;
+  font-size: .95em;
+}
+
+#wrapper {
+  max-width: 90%;
+  margin: 70px auto;
+}
+
+#content {
+  padding: 40px;
+  background-color: #424242;
+  box-shadow: 0 1px 3px 1px rgba(0,0,0,.5);
+}
+
+#site-name {
+  font-weight: 400;
+  margin: 5px 20px;
+}
+
+nav {
+  float:right;
+  position: relative;
+  bottom: 25px;
+}
+
+nav a {
+  color: #DDD;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.nav-current {
+  background-color: #424242;
+  color: #00ffff;
+  font-weight: 700;
+}

@@ -1,0 +1,11 @@
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+defaults:
+  -
+    scope:
+      path: "index.md"
+    values:
+      layout: "main"
