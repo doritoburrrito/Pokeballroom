@@ -1,0 +1,46 @@
+---
+title: Pokeballroom
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="icon" type="image/x-icon" href={{ "/assets/images/favicon.ico?" | relative_url }}>
+    <link rel="stylesheet" href={{ "/assets/css/styles.css" | relative_url }}>
+    <meta name="robots" content="noindex" />
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div id="wrapper">
+      <h1 id="site-name">{{ page.title }}</h1>
+      <div id="content">
+				<table>
+					<thead>
+						<tr>
+							<th>Pokemon</th>
+							<th>Natures</th>
+							<th>Ability</th>
+							<th>Egg moves</th>
+							<th>Ball</th>
+							<th>On Hand?</th>
+							<th>Breedable?</th>
+						</tr>
+					</thead>
+					<tbody>
+				    {% for item in site.data.list %}
+						<tr>
+							<td>{{ item.pokemon }}</td>
+				      <td>{{ item.nature }}</td>
+				      <td>{{ item.ability }}</td>
+				      <td>{{ item.egg_moves }}</td>
+				      <td><span class="ball-{{ item.ball }}" title="{{ item.ball }} ball"></span></td>
+				      <td>{% if item.on_hand == true %}✔{% elsif item.on_hand == false %}✘{% endif %}</td>
+				      <td>{% if item.can_breed == true %}✔{% elsif item.can_breed == false %}✘{% endif %}</td>
+						</tr>
+				    {% endfor %}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
