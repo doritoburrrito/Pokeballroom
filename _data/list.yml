@@ -2,55 +2,55 @@
   nature: Timid
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Modest
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Bold
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Calm
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Adamant
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Jolly
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Toxel
   nature: Timid
   ability: Klutz (HA)
   egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: poke
+  ball: Poke Ball
   on_hand: yes
   can_breed: yes
 - pokemon: Toxel
   nature: Timid
   ability: Klutz (HA)
   egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: beast
+  ball: Beast Ball
   on_hand: yes
   can_breed: no
