@@ -47,6 +47,13 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
+- pokemon: Dreepy
+  nature: Jolly
+  ability: Cursed Body (HA)
+  egg_moves: Dragon Tail, Confuse Ray, Disable, Double Team
+  ball: Poke Ball
+  on_hand: yes
+  can_breed: yes
 - pokemon: Toxel
   nature: Timid
   ability: Klutz (HA)
