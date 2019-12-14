@@ -23,7 +23,9 @@ body {
 }
 
 #site-name {
-  font-weight: 400;
+  font: 400 28px "Calibri", sans-serif;
+  text-transform: uppercase;
+  text-shadow: 1px 1px #000;
   margin: 5px 20px;
 }
 
