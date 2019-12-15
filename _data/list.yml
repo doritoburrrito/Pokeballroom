@@ -75,3 +75,10 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
+- pokemon: Eiscue
+  nature: Jolly
+  ability: Ice Face
+  egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
+  ball: Poke Ball
+  on_hand: yes
+  can_breed: yes
