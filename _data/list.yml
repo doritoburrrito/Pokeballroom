@@ -47,6 +47,13 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
+- pokemon: Scorbunny
+  nature: Jolly
+  ability: Blaze
+  egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
+  ball: Poke Ball
+  on_hand: yes
+  can_breed: yes
 - pokemon: Dreepy
   nature: Jolly
   ability: Cursed Body (HA)
@@ -61,10 +68,3 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
-- pokemon: Toxel
-  nature: Timid
-  ability: Klutz (HA)
-  egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: Beast Ball
-  on_hand: yes
-  can_breed: no
