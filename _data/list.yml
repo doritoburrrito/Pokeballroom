@@ -54,6 +54,13 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
+- pokemon: Sobble
+  nature: Timid
+  ability: Torrent
+  egg_moves: Aqua Jet, Mist, Haze, Aqua Ring
+  ball: Poke Ball
+  on_hand: yes
+  can_breed: yes
 - pokemon: Dreepy
   nature: Jolly
   ability: Cursed Body (HA)
