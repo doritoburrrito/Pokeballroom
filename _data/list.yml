@@ -40,10 +40,10 @@
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
-- pokemon: Toxel
-  nature: Timid
-  ability: Klutz (HA)
-  egg_moves: Endeavor, Metal Sound, Power-Up Punch
+- pokemon: Grookey
+  nature: Jolly
+  ability: Overgrow
+  egg_moves: Fake Out, Hammer Arm, Leech Seed, Growth
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
@@ -51,6 +51,13 @@
   nature: Jolly
   ability: Cursed Body (HA)
   egg_moves: Dragon Tail, Confuse Ray, Disable, Double Team
+  ball: Poke Ball
+  on_hand: yes
+  can_breed: yes
+- pokemon: Toxel
+  nature: Timid
+  ability: Klutz (HA)
+  egg_moves: Endeavor, Metal Sound, Power-Up Punch
   ball: Poke Ball
   on_hand: yes
   can_breed: yes
