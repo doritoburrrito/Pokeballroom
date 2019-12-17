@@ -2,83 +2,83 @@
   nature: Timid
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Modest
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Bold
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Calm
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Adamant
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eevee
   nature: Jolly
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Grookey
   nature: Jolly
   ability: Overgrow
   egg_moves: Fake Out, Hammer Arm, Leech Seed, Growth
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Scorbunny
   nature: Jolly
   ability: Blaze
   egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Sobble
   nature: Timid
   ability: Torrent
   egg_moves: Aqua Jet, Mist, Haze, Aqua Ring
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Dreepy
   nature: Jolly
   ability: Cursed Body (HA)
   egg_moves: Dragon Tail, Confuse Ray, Disable, Double Team
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Toxel
   nature: Timid
   ability: Klutz (HA)
   egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
 - pokemon: Eiscue
   nature: Jolly
   ability: Ice Face
   egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
-  ball: Poke Ball
+  ball: poke
   on_hand: yes
   can_breed: yes
