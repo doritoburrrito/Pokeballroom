@@ -1,5 +1,6 @@
 ---
 ---
 $ballsheet: "{{ '/assets/images/ballsheet.png' | relative_url }}";
+$pokesheet: "{{ '/assets/images/pokesheet.png' | relative_url }}";
 @import "main";
 @import "sprites";
