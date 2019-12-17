@@ -58,3 +58,9 @@
   ability: Ice Face
   egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
   ball: poke
+- pokemon: Ponyta
+  sprite: ponyta-galar
+  nature: Jolly
+  ability: Anticipation (HA)
+  egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
+  ball: poke

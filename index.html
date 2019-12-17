@@ -28,7 +28,7 @@ title: Pokeballroom
 					<tbody>
 				    {% for item in site.data.list %}
 						<tr>
-              <td><span class="pokemon-{{ item.pokemon | downcase }}"></span></td>
+              <td><span class="pokemon-{% if item.sprite %}{{ item.sprite }}{% else %}{{ item.pokemon | downcase }}{% endif %}"></span></td>
 							<td>{{ item.pokemon }}</td>
 				      <td>{{ item.nature }}</td>
 				      <td>{{ item.ability }}</td>
