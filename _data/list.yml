@@ -1,5 +1,5 @@
-- pokemon: Farfetch'd
-  sprite: farfetch'd-galar
+- pokemon: Farfetchd
+  sprite: farfetchd-galar
   nature: Adamant
   ability: Scrappy (HA)
   egg_moves: Quick Attack, Curse, Counter, Night Slash
