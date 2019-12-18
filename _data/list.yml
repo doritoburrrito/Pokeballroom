@@ -55,3 +55,7 @@
   nature: Timid
   ability: Ice Scales
   egg_moves: Fairy Wind, Mirror Coat, Bug Bite
+- pokemon: Wooloo
+  nature: Adamant
+  ability: Fluffy
+  egg_moves: Counter, Stomp, Swagger
