@@ -24,27 +24,9 @@ body {
 
 #site-name {
   font: 400 28px "Calibri", sans-serif;
-  text-transform: uppercase;
+  font-variant: small-caps;
   text-shadow: 1px 1px #000;
   margin: 5px 20px;
-}
-
-nav {
-  float:right;
-  position: relative;
-  bottom: 25px;
-}
-
-nav a {
-  color: #DDD;
-  padding: 10px 20px;
-  text-decoration: none;
-}
-
-.nav-current {
-  background-color: #424242;
-  color: #00ffff;
-  font-weight: 700;
 }
 
 table {
@@ -68,6 +50,6 @@ td:first-of-type {
     width: 1%;
 }
 
-td:nth-of-type(5) { // egg moves column
+td:nth-of-type(5) {
     width: 40%;
 }

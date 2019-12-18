@@ -33,7 +33,7 @@ title: Pokeballroom
 				      <td>{{ item.nature }}</td>
 				      <td>{{ item.ability }}</td>
 				      <td>{{ item.egg_moves }}</td>
-				      <td><span class="ball-{% if item.ball %}{{ item.ball }}{% else %}poke{% endif %}" title="{% if item.ball %}{{ item.ball }}{% else %}poke{% endif %} ball"></span></td>
+				      <td><span class="ball-{{ item.ball }}" title="{{ item.ball }} ball"></span></td>
 						</tr>
 				    {% endfor %}
 					</tbody>
