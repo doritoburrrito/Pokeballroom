@@ -3,45 +3,74 @@
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
   ball: poke
-- pokemon: Farfetch'd
-  sprite: farfetch'd-galar
+- pokemon: Eevee
+  nature: Modest
+  ability: Anticipation (HA)
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
+- pokemon: Eevee
+  nature: Bold
+  ability: Anticipation (HA)
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
+- pokemon: Eevee
+  nature: Calm
+  ability: Anticipation (HA)
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
+- pokemon: Eevee
   nature: Adamant
-  ability: Scrappy (HA)
-  egg_moves: Quick Attack, Curse, Counter, Night Slash
-  ball: friend
-- pokemon: Sizzlipede
-  nature: Adamant
-  ability: Flame Body (HA)
-  egg_moves: Rollout, Struggle Bug, Knock Off, Defense Curl
-  ball: level
-- pokemon: Eiscue
-  nature: Jolly
-  ability: Ice Face
-  egg_moves: Belly Drum, Head Smash, Double-Edge, Icicile Crash
-  ball: dream
- - pokemon: Dreepy
-  nature: Jolly
-  ability: Cursed Body (HA)
-  egg_moves: Dragon Tail, Confuse Ray, Curse, Sucker Punch
-  ball: lure
-- pokemon: Toxel
-  nature: Timid
-  ability: Klutz (HA)
-  egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: beast
- - pokemon: Ponyta
-  sprite: ponyta-galar
+  ability: Anticipation (HA)
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
+- pokemon: Eevee
   nature: Jolly
   ability: Anticipation (HA)
-  egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
-  ball: love
-- pokemon: Snom
-  nature: Timid
-  ability: Ice Scales (HA)
-  egg_moves: Fairy Wind, Mirror Coat, Bug Bite
-  ball: moon
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
+- pokemon: Grookey
+  nature: Jolly
+  ability: Overgrow
+  egg_moves: Fake Out, Hammer Arm, Leech Seed, Growth
+  ball: poke
 - pokemon: Scorbunny
   nature: Jolly
   ability: Blaze
   egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
+  ball: poke
+- pokemon: Sobble
+  nature: Timid
+  ability: Torrent
+  egg_moves: Aqua Jet, Mist, Haze, Aqua Ring
+  ball: poke
+- pokemon: Dreepy
+  nature: Jolly
+  ability: Cursed Body (HA)
+  egg_moves: Dragon Tail, Confuse Ray, Disable, Double Team
+  ball: poke
+- pokemon: Toxel
+  nature: Timid
+  ability: Klutz (HA)
+  egg_moves: Endeavor, Metal Sound, Power-Up Punch
+  ball: poke
+- pokemon: Eiscue
+  nature: Jolly
+  ability: Ice Face
+  egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
+  ball: poke
+- pokemon: Ponyta
+  sprite: ponyta-galar
+  nature: Jolly
+  ability: Anticipation (HA)
+  egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
+  ball: poke
+- pokemon: Snom
+  nature: Timid
+  ability: Ice Scales (HA)
+  egg_moves: Fairy Wind, Mirror Coat, Bug Bite
+  ball: poke
+- pokemon: Wooloo
+  nature: Adamant
+  ability: Fluffy
+  egg_moves: Counter, Stomp, Swagger
   ball: poke
