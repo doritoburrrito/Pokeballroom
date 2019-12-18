@@ -1,8 +1,9 @@
-- pokemon: Eevee
-  nature: Timid
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
+- pokemon: Farfetch'd
+  sprite: farfetch'd-galar
+  nature: Adamant
+  ability: Scrappy (HA)
+  egg_moves: Quick Attack, Curse, Counter, Night Slash
+  ball: friend
 - pokemon: Eevee
   nature: Modest
   ability: Anticipation (HA)
