@@ -64,3 +64,8 @@
   ability: Anticipation (HA)
   egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
   ball: poke
+- pokemon: Snom
+  nature: Timid
+  ability: Ice Scales
+  egg_moves: Fairy Wind, Mirror Coat, Bug Bite
+  ball: poke
