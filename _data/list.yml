@@ -1,8 +1,8 @@
-- pokemon: Wooloo
-  nature: Adamant
-  ability: Run Away
-  egg_moves: Counter, Stomp, Swagger
-  ball: moon
+- pokemon: Eevee
+  nature: Timid
+  ability: Anticipation (HA)
+  egg_moves: Wish, Yawn, Curse, Double Kick
+  ball: poke
  - pokemon: Farfetch'd
   sprite: farfetch'd-galar
   nature: Adamant
