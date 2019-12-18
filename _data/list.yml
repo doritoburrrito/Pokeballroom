@@ -4,74 +4,44 @@
   ability: Scrappy (HA)
   egg_moves: Quick Attack, Curse, Counter, Night Slash
   ball: friend
-- pokemon: Eevee
-  nature: Modest
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
-- pokemon: Eevee
-  nature: Bold
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
-- pokemon: Eevee
-  nature: Calm
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
-- pokemon: Eevee
+- pokemon: Sizzlipede
   nature: Adamant
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
-- pokemon: Eevee
-  nature: Jolly
-  ability: Anticipation (HA)
-  egg_moves: Wish, Yawn, Curse, Double Kick
-  ball: poke
-- pokemon: Grookey
-  nature: Jolly
-  ability: Overgrow
-  egg_moves: Fake Out, Hammer Arm, Leech Seed, Growth
-  ball: poke
-- pokemon: Scorbunny
-  nature: Jolly
-  ability: Blaze
-  egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
-  ball: poke
-- pokemon: Sobble
-  nature: Timid
-  ability: Torrent
-  egg_moves: Aqua Jet, Mist, Haze, Aqua Ring
-  ball: poke
+  ability: Flame Body (HA)
+  egg_moves: Rollout, Struggle Bug, Knock Off, Defense Curl
+  ball: level
+- pokemon: Wooloo
+  nature: Adamant
+  ability: Fluffy
+  egg_moves: Counter, Stomp, Swagger
+  ball: moon
 - pokemon: Dreepy
   nature: Jolly
   ability: Cursed Body (HA)
-  egg_moves: Dragon Tail, Confuse Ray, Disable, Double Team
-  ball: poke
+  egg_moves: Dragon Tail, Confuse Ray, Curse, Sucker Punch
+  ball: lure
 - pokemon: Toxel
   nature: Timid
   ability: Klutz (HA)
   egg_moves: Endeavor, Metal Sound, Power-Up Punch
-  ball: poke
+  ball: beast
 - pokemon: Eiscue
   nature: Jolly
   ability: Ice Face
-  egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
-  ball: poke
+  egg_moves: Belly Drum, Head Smash, Double-Edge, Icicile Crash
+  ball: dream
 - pokemon: Ponyta
   sprite: ponyta-galar
   nature: Jolly
   ability: Anticipation (HA)
   egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
-  ball: poke
+  ball: love
 - pokemon: Snom
   nature: Timid
   ability: Ice Scales (HA)
   egg_moves: Fairy Wind, Mirror Coat, Bug Bite
-  ball: poke
-- pokemon: Wooloo
-  nature: Adamant
-  ability: Fluffy
-  egg_moves: Counter, Stomp, Swagger
+  ball: moon
+- pokemon: Scorbunny
+  nature: Jolly
+  ability: Blaze
+  egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
   ball: poke
