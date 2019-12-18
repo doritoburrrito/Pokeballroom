@@ -3,13 +3,13 @@
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
   ball: poke
- - pokemon: Farfetch'd
+- pokemon: Farfetch'd
   sprite: farfetch'd-galar
   nature: Adamant
   ability: Scrappy (HA)
   egg_moves: Quick Attack, Curse, Counter, Night Slash
   ball: friend
- - pokemon: Sizzlipede
+- pokemon: Sizzlipede
   nature: Adamant
   ability: Flame Body (HA)
   egg_moves: Rollout, Struggle Bug, Knock Off, Defense Curl
@@ -19,7 +19,7 @@
   ability: Ice Face
   egg_moves: Belly Drum, Head Smash, Double-Edge, Icicile Crash
   ball: dream
-- pokemon: Dreepy
+ - pokemon: Dreepy
   nature: Jolly
   ability: Cursed Body (HA)
   egg_moves: Dragon Tail, Confuse Ray, Curse, Sucker Punch
@@ -29,7 +29,7 @@
   ability: Klutz (HA)
   egg_moves: Endeavor, Metal Sound, Power-Up Punch
   ball: beast
-- pokemon: Ponyta
+ - pokemon: Ponyta
   sprite: ponyta-galar
   nature: Jolly
   ability: Anticipation (HA)
