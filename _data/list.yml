@@ -40,6 +40,61 @@
   ability: Ice Scales (HA)
   egg_moves: Fairy Wind, Mirror Coat, Bug Bite
   ball: moon
+- pokemon: Duraludon
+  nature: Modest
+  ability: Stalwart (HA)
+  egg_moves: Night Slash, Slash, Mirror Coat
+  ball: heavy
+- pokemon: Applin
+  nature: Jolly
+  ability: Bulletproof (HA)
+  egg_moves: Sucker Punch, Defense Curl, Rollout, Recycle
+  ball: friend
+- pokemon: Stonjourner
+  nature: Adamant
+  ability: Power Spot
+  egg_moves: Rock Throw, Block, Curse, Ancient Power
+  ball: friend
+- pokemon: Joltik
+  nature: Modest
+  ability: Swarm (HA)
+  egg_moves: Poison Sting, Struggle Bug, Infestation, Lunge
+  ball: lure
+- pokemon: Rookidee
+  nature: Careful
+  ability: Keen Eye
+  egg_moves: Roost, Defog, Tailwing, Sky Attack
+  ball: beast
+ - pokemon: Corsola
+  nature: Bold
+  ability: Cursed Body (HA)
+  egg_moves: Destiny Bond, Haze, Head Smash, Confuse Ray
+  ball: love
+ - pokemon: Mimikyu
+  nature: Jolly
+  ability: Disguise
+  egg_moves: Copycat, Curse, Destiny Bond, Grudge
+  ball: dream
+ - pokemon: Hatenna
+  nature: Modest
+  ability: Magic Bounce (HA)
+  egg_moves: After You, Quash, Aromatic Mist, Nuzzle
+  ball: dream
+ - pokemon: Clobbopus
+  nature: Adamant
+  ability: Technician (HA)
+  egg_moves: Pain Split, Soak, Sucker Punch, Circle Throw
+  ball: level
+ - pokemon: Milcery
+  nature: Modest
+  ability: Aroma Veil (HA)
+  egg_moves: Baby-Doll Eyes, Last Resort
+  ball: love
+ - pokemon: Swinub
+  nature: Jolly
+  ability: Thick Fat (HA)
+  egg_moves: Curse, Fissure, Icicle Crash, Freeze-Dry
+  ball: love
 - pokemon: Scorbunny
   nature: Jolly
   ability: Blaze
